@@ -1,12 +1,13 @@
 ### Hi there 👋
-  <!-- For more icons please follow  https://github.com/RossMci/ColoredBadges -->
- <p align="center">
-  <img src="https://raw.githubusercontent.com/RossMci/coloredbadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/RossMci/coloredbadges/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/RossMci/coloredbadges/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/RossMci/coloredbadges/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/RossMci/coloredbadges/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/RossMci/coloredbadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+<p align="center">
+    <!-- For more icons please follow  https://github.com/RossMci/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/rossmci/coloredbadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/rossmci/coloredbadges/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/rossmci/coloredbadges/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+     <img src="https://raw.githubusercontent.com/rossmci/coloredbadges/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/rossmci/coloredbadges/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+     <img src="https://raw.githubusercontent.com/rossmci/coloredbadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/rossmci/coloredbadges/master/svg/dev/languages/java.svg" alt="java">
 </p>
 <!--
 **RossMci/RossMci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
