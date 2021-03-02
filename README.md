@@ -7,7 +7,7 @@
 	<a href="#languages"><img src="https://raw.githubusercontent.com/rossmci/coloredbadges/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"/></a>
 	<a href="#languages"><img src="https://raw.githubusercontent.com/rossmci/coloredbadges/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; 
 	margin:4px"/></a>
-	<a href="#languages"><img src="https://raw.githubusercontent.com/rossmci/coloredbadges/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; 
+	<a href="#languages"><img src="https://raw.githubusercontent.com/rossmci/coloredbadges/master/svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet" style="vertical-align:top; 
 	margin:4px"/></a>
 		<a href="#languages"><img src="https://raw.githubusercontent.com/rossmci/coloredbadges/master/svg/dev/languages/java.svg" alt="python" style="vertical-align:top; margin:4px"/></a>
 </p>
